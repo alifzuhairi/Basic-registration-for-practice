@@ -33,3 +33,15 @@ body {
     color: white;
     cursor: pointer;
   }
+
+  span {
+    font-size: 14px;
+    color: red;
+    margin-bottom: 15px;
+  }
+
+  .success {
+    background-color: #2d2f31;
+    padding: 15px;
+    color: white;
+  }
